@@ -1,0 +1,6 @@
+Model,Reported_Test_AUROC,Reported_Test_Precision,Reported_Test_Recall,Reported_Test_F1,Reported_Test_Accuracy
+Logistic Regression,0.86,0.84,0.94,0.89,0.87
+Gradient Boosting,0.83,0.81,0.91,0.86,0.84
+SVM RBF,0.5,0.0,0.0,0.0,0.46
+Bagging,0.8,0.78,0.88,0.83,0.8
+Random Forest,0.78,0.78,0.85,0.81,0.79
